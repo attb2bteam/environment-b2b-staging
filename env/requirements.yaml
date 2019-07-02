@@ -10,6 +10,9 @@ dependencies:
 - name: opentest
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: opentest-go
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: subtitle-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
